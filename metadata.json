@@ -1,0 +1,7 @@
+{
+  "name": "Hélène Park",
+  "description": "Un tableau de bord moderne pour la piscine Hélène Park avec gestion d'activités et IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
